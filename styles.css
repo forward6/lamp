@@ -107,3 +107,13 @@ h1 {
     font-size: 0.9em;
     color: #F2E3C9;
 }
+
+.email-link {
+    color: #F2E3C9;
+    text-decoration: none;
+}
+
+.email-link:hover {
+    color: #E49B5D;
+    text-decoration: underline;
+}
